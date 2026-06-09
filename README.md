@@ -10,4 +10,3 @@
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohitkumar893&layout=compact&theme=buefy&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=rohitkumar893&theme=github-light&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=rohitkumar893)
