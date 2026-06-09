@@ -7,6 +7,9 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 -->
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohitkumar893&layout=compact&theme=buefy&hide_border=true)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohitkumar893&layout=compact&theme=buefy&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=rohitkumar893&theme=github-light&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohitkumar893&theme=flat&no-frame=true&margin-w=10)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitkumar893&theme=github-light&hide_border=true)
+![](https://komarev.com/ghpvc/?username=rohitkumar893&label=Profile%20Views&color=0e75b6&style=flat)
