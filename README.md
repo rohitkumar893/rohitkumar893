@@ -10,4 +10,4 @@
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohitkumar893&layout=compact&theme=buefy&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=rohitkumar893&theme=github-light&hide_border=true)
-![3D Contributions](https://raw.githubusercontent.com/rohitkumar893/rohitkumar893/main/profile-3d-contrib/profile-season-animate.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitkumar893&theme=github-light)
